@@ -30,20 +30,6 @@ To analyze Spotify chart data and identify key factors that influence a song’s
 ## Dashboard Preview
 ![Spotify Dashboard Images](https://github.com/user-attachments/assets/31dffd38-7fdd-43d9-9f25-4923b894900d)
 
-Final Conclusion
-
-This project shows how different factors — like song duration, release year, album type, and explicit content — influence chart performance on Spotify. By cleaning, analyzing, and visualizing the data, it becomes easier to understand what makes certain songs and artists stand out.
-
-Overall, the analysis highlights clear trends in listener behavior and provides insights that can be useful for music strategy, artist planning, or understanding streaming patterns.
-
-If you want, I can now prepare Tech Stack, Dashboard Features, or a short project summary for LinkedIn.
-
-You said:
-give in bullenitns each 5-6 points
-ChatGPT said:
-
-Here are bullet-point insights and conclusion, each with 5–6 clear points:
-
 ## Project Insights
 - Popular songs usually fall within a medium duration range, showing listener preference for shorter tracks.
 - A small group of artists contribute most of the charting songs, indicating strong fan bases and consistent reach.
