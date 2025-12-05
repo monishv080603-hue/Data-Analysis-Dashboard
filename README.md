@@ -17,7 +17,7 @@ To analyze Spotify chart data and identify key factors that influence a song’s
 - Average Popularity by Album Type – Measures how singles, albums, and compilations perform.
 - Average Popularity by Month & Quarter – Shows seasonal or quarterly popularity trends.
 
-## Spotify Dashboard
+## Spotify Interactive Dashboard
 <a href="https://github.com/monishv080603-hue/Data-Analysis-Dashboard/blob/main/Spotify%20Analytics%20Dashboard.pbix">Spotify Dashboard</a>
 
 ## Project Process
